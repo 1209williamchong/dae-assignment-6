@@ -3,3 +3,8 @@ downloaded
 db.sqlite3
 db.sqlite3-shm
 db.sqlite3-wal
+dataset
+classified
+unclassified
+saved_models/base_model
+saved_models/classifier_model

@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "image-dataset": "^1.8.0"
+    "image-dataset": "^1.11.0-cpu"
   }
 }
